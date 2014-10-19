@@ -1,0 +1,50 @@
+a:link{
+	color:black;
+	text-decoration:none;	
+}
+
+a:visited{
+	color:black;
+	text-decoration:none;
+}
+
+a:active{
+	color:blue;
+	text-decoration:none;
+}
+
+a:hover{
+	color:blue;
+	text-decoration:none;
+}
+
+body{
+	font-family:arial;
+	font-size:20px;
+	margin:0px;
+	padding:0px;
+}
+
+#main_menue{
+	margin: 0px;
+	padding: 5px;
+	background-color: orange;
+	border: solid thin;
+}
+
+#main_menue_sel{
+	border: double;
+	font-size: 30px;
+}
+
+#save_main_menue{
+	margin: 0px;
+	padding: 5px;
+	background-color: rgb(104,254,14);
+	border: solid thin;
+}
+
+#save_main_menue_sel{
+	border: double;
+	font-size: 30px;
+}
